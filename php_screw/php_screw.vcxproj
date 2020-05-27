@@ -176,7 +176,7 @@
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalLibraryDirectories>$(ProjectDir)\zlib;$(SolutionDir)\include_php\php_bin_dev;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalDependencies>php7ts_x64.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>php5.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <IgnoreSpecificDefaultLibraries>
       </IgnoreSpecificDefaultLibraries>
     </Link>
