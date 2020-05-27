@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "z_key_manage", "z_key_manage\z_key_manage.vcxproj", "{76AD3262-B786-4C52-A13F-2EB68BC75AD2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tools_screw", "tools_screw\tools_screw.vcxproj", "{D3B43C05-DA94-4765-A53C-877ED1E37076}"
@@ -44,8 +44,8 @@ Global
 		{76AD3262-B786-4C52-A13F-2EB68BC75AD2}.Release|Win32.ActiveCfg = Release|Win32
 		{76AD3262-B786-4C52-A13F-2EB68BC75AD2}.Release|Win32.Build.0 = Release|Win32
 		{76AD3262-B786-4C52-A13F-2EB68BC75AD2}.Release|x64.ActiveCfg = Release|Win32
-		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
-		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Debug|Mixed Platforms.ActiveCfg = Release_NTS|Win32
+		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Debug|Mixed Platforms.Build.0 = Release_NTS|Win32
 		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Debug|Win32.ActiveCfg = Debug|Win32
 		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Debug|Win32.Build.0 = Debug|Win32
 		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Debug|x64.ActiveCfg = Debug|Win32
@@ -64,8 +64,8 @@ Global
 		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Release|Win32.ActiveCfg = Release|Win32
 		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Release|Win32.Build.0 = Release|Win32
 		{D3B43C05-DA94-4765-A53C-877ED1E37076}.Release|x64.ActiveCfg = Release|Win32
-		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
-		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Debug|Mixed Platforms.ActiveCfg = Release_NTS|Win32
+		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Debug|Mixed Platforms.Build.0 = Release_NTS|Win32
 		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Debug|Win32.ActiveCfg = Debug|Win32
 		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Debug|Win32.Build.0 = Debug|Win32
 		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Debug|x64.ActiveCfg = Debug|x64
@@ -88,8 +88,8 @@ Global
 		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Release|Win32.Build.0 = Release|Win32
 		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Release|x64.ActiveCfg = Release|x64
 		{5A5BB619-7F2D-4EBB-B05B-972F8EDD0BD3}.Release|x64.Build.0 = Release|x64
-		{1860F9A9-F6A3-4891-8576-D8E01E5A9118}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
-		{1860F9A9-F6A3-4891-8576-D8E01E5A9118}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{1860F9A9-F6A3-4891-8576-D8E01E5A9118}.Debug|Mixed Platforms.ActiveCfg = Release_NTS|Win32
+		{1860F9A9-F6A3-4891-8576-D8E01E5A9118}.Debug|Mixed Platforms.Build.0 = Release_NTS|Win32
 		{1860F9A9-F6A3-4891-8576-D8E01E5A9118}.Debug|Win32.ActiveCfg = Debug|Win32
 		{1860F9A9-F6A3-4891-8576-D8E01E5A9118}.Debug|Win32.Build.0 = Debug|Win32
 		{1860F9A9-F6A3-4891-8576-D8E01E5A9118}.Debug|x64.ActiveCfg = Debug|Win32
