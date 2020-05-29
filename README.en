@@ -16,7 +16,7 @@ Salt key manage: {VC solution dir}/z_key_manage/my_screw.h
 Compiling condition
 
 Tested OS's / PHP's version
-MS-Windows: MS-Windows 8.1, 10 / PHP 5.6.15, 7.0.5, 7.1.0 alpha2, 7.2.0 alpha1
+MS-Windows: MS-Windows 8.1, 10 / PHP 5.3(nts-x86), 5.6.15, 7.0.5, 7.1.0 alpha2, 7.2.0 alpha1
 Linux: CentOS 6.3, 7 / PHP 5.3.3, 7.0.6
 
 Tested Compiler
